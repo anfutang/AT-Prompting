@@ -1,0 +1,60 @@
+/home/tang/chain_prompting/p1.py:4: DeprecationWarning: 
+Pyarrow will become a required dependency of pandas in the next major release of pandas (pandas 3.0),
+(to allow more performant data types, such as the Arrow string type, and better interoperability with other libraries)
+but was not found to be installed on your system.
+If this would cause problems for you,
+please provide us feedback at https://github.com/pandas-dev/pandas/issues/54466
+        
+  import pandas as pd
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:05<00:16,  5.34s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:10<00:10,  5.43s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:16<00:05,  5.44s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:17<00:00,  3.82s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:17<00:00,  4.41s/it]
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
