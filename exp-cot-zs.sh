@@ -10,9 +10,7 @@
 
 dataset=$1
 pi=$2
-dry_run=$3
-
-echo $dry_run
+dry_run=${3:-False}
 
 if [ "$pi" = 1 ]; then
   srun python3 p1.py --dataset_name $dataset --prompt_type CoT-zero-shot --model_name meta-llama/Meta-Llama-3-8B-Instruct --dry_run $dry_run
